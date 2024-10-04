@@ -1,24 +1,33 @@
-<h1 align="center">Hi 👋, I'm Amir</h1>
-<h3 align="center">A passionate Programmer from Algeria</h3>
 
-- 🌱 I’m currently learning **Desktop Applications, Netframework**
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/amirbeghoul07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amirbeghoul) 
 
-- 📫 How to reach me **zruchiha005@gmail.com**
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Devamirbeghoul&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Devamirbeghoul&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Devamirbeghoul&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 📄 Know about my experiences [C++ , C#]
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/amirbeghoul07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amirbeghoul07" height="30" width="40" /></a>
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Devamirbeghoul&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
+---
+[![](https://visitcount.itsvg.in/api?id=Devamirbeghoul&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-<h1>Conclusion</h1>
+<h1>About</h1>
 
-It has been a full year since my learning journey, I do not deny that I faced many obstacles, including poor computer capabilities, but I fought my circumstances and will continue, everything that has been done is subject to change depending on what I will learn in the future, even the account format may change, if you need help or have a desire to trade with me, please contact me. 
+I began my programming journey with a comprehensive roadmap on ProgrammingAdvices.com, where I completed 16 courses. These courses established a solid foundation in essential topics such as algorithms, problem-solving, object-oriented programming (OOP), and core computer science concepts like data structures.
+
+I started with C++, focusing on algorithms and OOP, and then specialized in C#. Additionally, I am currently learning SQL for database management and gaining experience with WinForms, which helped me understand key concepts in creating user interfaces. Throughout my studies, I have worked on various projects, applying my knowledge in practical settings.
+
+I am committed to developing my skills as a full-stack developer. My focus is on mastering both front-end and back-end technologies, enhancing my expertise in web development frameworks, and staying updated with the latest advancements in technology. I am passionate about creating efficient, user-friendly, and innovative solutions.
 
 
 ## Thank you to everyone for browsing this account ##
