@@ -35,7 +35,7 @@ I began my programming journey with a comprehensive roadmap on ProgrammingAdvice
 
 I started with C++, focusing on algorithms and OOP, and then specialized in C#. Additionally, I am currently learning SQL for database management and gaining experience with WinForms, which helped me understand key concepts in creating user interfaces. Throughout my studies, I have worked on various projects, applying my knowledge in practical settings.
 
-I am committed to developing my skills as a full-stack developer. My focus is on mastering both front-end and back-end technologies, enhancing my expertise in web development frameworks, and staying updated with the latest advancements in technology. I am passionate about creating efficient, user-friendly, and innovative solutions.
+I am committed to developing my skills as a full-stack developer.
 
 
 ## Thank you to everyone for browsing this account ##
