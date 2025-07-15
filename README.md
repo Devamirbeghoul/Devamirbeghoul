@@ -5,6 +5,7 @@
 <ul>
 <li><strong>Languages:</strong> Arabic, English and French</li>	
 <li><strong>Hobbies:</strong> Reading, Playing MLBB, and Listening to music</li>
+<li><strong>Email:</strong> Zruchiha005@gmail.com</li>
 </ul>
 
 ## 🎓 Education & Certifications
