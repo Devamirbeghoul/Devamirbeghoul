@@ -1,3 +1,5 @@
+<img width="833" height="200" alt="Image" src="https://github.com/user-attachments/assets/100d3dc4-f21b-4548-8b92-4b450b003613" />
+
 # 💫 About Me:
 Studies Computer Science at Mila University<br>Studies Programming at Programming Advices<br>Hobbies: Reading, Playing MLBB, and Listening to music
 
