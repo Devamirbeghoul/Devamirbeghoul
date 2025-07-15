@@ -1,13 +1,24 @@
 <img width="833" height="200" alt="Image" src="https://github.com/user-attachments/assets/100d3dc4-f21b-4548-8b92-4b450b003613" />
 
-# 💫 About Me:
-Studies Computer Science at Mila University<br>Studies Programming at Programming Advices<br>Hobbies: Reading, Playing MLBB, and Listening to music
+## 💫 About Me:
 
+<ul>
+<li><strong>Languages:</strong> Arabic, English and French</li>	
+<li><strong>Hobbies:</strong> Reading, Playing MLBB, and Listening to music</li>
+</ul>
+
+## 🎓 Education & Certifications
+<ul>
+  <li><strong>Completed Basic Programming Path:</strong> 24 Courses (via ProgrammingAdvices)</li>
+  <li><strong>RESTful API:</strong> Learned how to build and use REST APIs (via ProgrammingAdvices)</li>
+  <li><strong>SOLID Principles:</strong> Applied best practices (via ProgrammingAdvices)</li>
+  <li><strong>Education:</strong> Computer Science at Mila University, Algeria</li>
+</ul>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/amirbeghoul07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amirbeghoul) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Devamirbeghoul) 
 
-# 💻 My Skills:
+## 💻 My Skills:
 <div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" alt="REST" title="REST"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
